@@ -1,2 +1,2 @@
-# coursera_project
+# Final project 
 Assigment for complete course from COURSERA online learning
